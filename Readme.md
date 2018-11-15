@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/DXPivotGrid_StandardFormatting/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXPivotGrid_StandardFormatting/MainPage.xaml))
+<!-- default file list end -->
 # How to: Format Cell Values
 
 
